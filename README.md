@@ -3,7 +3,7 @@ An aspiring iOS Engineer looking to built apps to make lives easier for others. 
 
 - 🧠 Currently learning iOS Development
 - 📚 Reading <em>FOCUS</em> by Daniel Goleman
-- 💬 Connect with me to talk about book you might recommend
+- 💬 Connect with me to talk about coding or a book you recommend😊
 - 🧑‍💼 Working at SnapBrillia right as a swe intern focusing on Web Development
 
 - Some languages I work with
