@@ -7,4 +7,5 @@ An aspiring iOS Engineer looking to built apps to make lives easier for others. 
 - 🧑‍💼 Working at SnapBrillia right as a swe intern focusing on Web Development
 
 - Some languages I work with
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveshi0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
