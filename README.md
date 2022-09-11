@@ -1,8 +1,8 @@
 ### Hi, I'm Steve 👋
-An aspiring iOS Engineer looking to built apps to make lives easier for others. You will see me either staring at my Mac💻 or reading a book📚.
+An aspiring Sofware Engineer looking to built web applications to for others to use.
 
 - 🧠 Currently learning iOS Development
-- 📚 Reading <em>Impulses</em> by David Lewis
+- 📚 Reading <em>Intelligent Investor</em> by Benjamin Graham
 - 💬 Connect with me to talk about coding or a book you recommend😊
 - 🧑‍💼 Working at InstaHub as an iOS Intern
 
